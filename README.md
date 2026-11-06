@@ -57,7 +57,7 @@ Hi! I'm a Master's student in Computer Science at the **University of Illinois U
   <picture><img height="165" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" /></picture>
 </p>
 
-<p align="center"><i>"It works on my machine" — me, confidently, every time 🫡</i></p>
+<p align="center"><i>"It works on my machine" - me, confidently, every time 🫡</i></p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:91EAE4,50:86A8E7,100:7F7FD5&height=100&section=footer" />
